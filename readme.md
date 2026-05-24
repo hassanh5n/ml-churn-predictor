@@ -1,6 +1,6 @@
 # Telco Customer Churn Prediction — End-to-End ML Pipeline
 
-**DevelopersHub Corporation — AI/ML Engineering Internship | Task 2**
+**DevelopersHub Corporation — AI/ML Engineering Internship**
 
 ---
 
